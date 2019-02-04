@@ -5,7 +5,7 @@ This is a python script to import database of all goods with their prices in any
   ![alt text](https://i.imgur.com/kAzosGy.png)
   3. Copy the url of chosen category.
   4. Run traektoria_parser.py script.
-  5. Enter the copied URL.
+  5. Enter the copied URL and press ENTER.
   6. The result will be placed in database.txt in one folder with .py script.
   
   P.S. the database.txt consists of three columns divided with tab:
