@@ -8,7 +8,7 @@ This is a python script to import database of all goods with their prices in any
   5. Enter the copied URL and press ENTER.
   6. The result will be placed in database.txt in one folder with .py script.
   
-  P.S. the database.txt consists of three columns divided with tab:
+  P.S. the database.txt consists of several columns divided with tab:
   - Category;
   - Name of the Good;
   - Price;
