@@ -1,4 +1,5 @@
 const { initializeProxyList, parse } = require('./scripts');
+const process = require('process');
 
 const URLs = {
     ONE_PRICE: [
@@ -39,6 +40,7 @@ async function test() {
         }
     }
     console.log(results);
+    process.exit();
 }
 
 test();
